@@ -1,5 +1,6 @@
 {
   "projects": {
-    "cesartales": "cesartales-1f478"
+    "cesartales": "cesartales-1f478",
+    "default": "cesartales-1f478"
   }
 }
